@@ -1,3 +1,3 @@
 # Card Game App
 
-## A crad game where user plays aginst computure
+## A crad game where user plays aginst computer
